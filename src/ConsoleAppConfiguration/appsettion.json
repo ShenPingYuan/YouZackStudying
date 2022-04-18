@@ -1,0 +1,8 @@
+{
+  "name": "michaelshen",
+  "age": 18,
+  "proxy": {
+    "address": "192.168.3.1",
+    "port": 80
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppConfiguration": {
+      "commandName": "Project",
+      "commandLineArgs": "name=\"沈平元\""
+    }
+  }
+}
